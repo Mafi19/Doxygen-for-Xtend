@@ -1,3 +1,20 @@
+Original Doxygen README below
+
+This is a Doxygen extension that provides support for Xtend source files: https://eclipse.dev/Xtext//xtend/
+
+Install as described in https://www.doxygen.nl/manual/install.html
+
+The module was tested with the following Doxygen file configuration parameters:
+
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_PRIV_VIRTUAL   = YES
+EXTRACT_PACKAGE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+INLINE_SOURCES         = YES
+
+
 Doxygen
 ===============
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9HHLRBCC8B2B8)
